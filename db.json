@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "movie": [
+    {
+      "id": 1,
+      "title": "Alien",
+      "director": "Ridley Scott"
+    }
+  ],
+  "game": [
+    {
+      "name": "CSGO",
+      "dev": "Valve",
+      "platform": "PC",
+      "id": 1
+    }
+  ],
+  "cliente": [
+    {
+      "id": 1,
+      "nome": "Pedro",
+      "cpf": "48957552"
+    }
+  ],
+  "kanban": [
+    {
+      "id": 1,
+      "nome": "Projeto PI",
+      "categoria": "Faculdade",
+      "status": "Done"
+    },
+    {
+      "id": 2,
+      "nome": "Projeto Angula",
+      "categoria": "Faculdade",
+      "status": "Doing"
+    }
+  ]
+}
